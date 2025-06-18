@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel Day-2/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shyam808/REACT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shyam808/REACT/issues"
+  },
+  "homepage": "https://github.com/Shyam808/REACT#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.15.2",
+    "react-router-dom": "^7.6.2"
+  }
+}
